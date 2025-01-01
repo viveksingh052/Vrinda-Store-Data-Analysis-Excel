@@ -9,27 +9,33 @@ To make the analysis more insightful, two key columns are added: Age Group and M
 
 Data Analysis:
 
-1.Sales vs orders
+1. Sales vs orders
+
 This visualization compares the total sales against the number of orders placed, allowing you to gauge the relationship between order volume and revenue.
 ![image](https://github.com/user-attachments/assets/ce62fa43-ea81-4cdf-bb1d-041dbece4e82)
 
-2.Men Vs Women
+2. Men Vs Women
+
 Analyzing the purchasing trends of men vs. women gives insights into gender-based preferences, helping tailor marketing and product strategies.
 ![image](https://github.com/user-attachments/assets/25acfb2d-05a3-416d-88a0-064bcfa3f844)
 
-3.Top 5 State Sales
+3. Top 5 State Sales
+
 The chart visualizes sales across the top 5 performing states, helping identify regions contributing the most to overall sales.
 ![image](https://github.com/user-attachments/assets/59a0b93c-7e9b-49bd-93ae-e762fb8e8c26)
 
-4.Orders Status
+4. Orders Status
+
 Analyzing the status of orders—whether they are pending, completed, or canceled—helps assess operational efficiency and identify bottlenecks
 ![image](https://github.com/user-attachments/assets/488d1495-97c1-4bba-9280-d6bbc36e258e)
 
-5.Orders Age Vs Gender
+5. Orders Age Vs Gender
+
 This visualization provides insights into how different age groups and genders are placing orders, highlighting specific demographics' purchasing preferences.
 ![image](https://github.com/user-attachments/assets/e8907229-a4ed-41e8-9f9b-348ab2757c19)
 
-6.Orders Channel
+6. Orders Channel
+
 This visualization provides insights into how different age groups and genders are placing orders, highlighting specific demographics' purchasing preferences.
 ![image](https://github.com/user-attachments/assets/106ed1fb-5d38-402c-a1ca-beb1e87471c7)
 
